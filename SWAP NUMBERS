@@ -10,7 +10,7 @@ class rotche{ //gagama ug class nga ginganlan ug rotche
 };
 
 int main() {
-	rotche call; //gitawag nako ang class nga hazel gamit ang 'call'
+	rotche call; //gitawag nako ang class nga rotche gamit ang 'call'
 	call.twovarswapping(); //gitawag ang functions
 	call.threevarswapping();
 	return 0;
